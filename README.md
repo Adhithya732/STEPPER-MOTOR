@@ -45,16 +45,6 @@ For running the stepper motor in clockwise and anticlockwise directions:
 
 ---
 
-
-
-
-
-
-
-
-
-
-
 ## PROGRAM
 
 ```asm
@@ -81,9 +71,8 @@ DATA:    DB 09H, 05H, 06H, 0AH ; Array of data
 ```
 ## OUTPUT OF THE PROGRAM:
 
-<img width="300" height="203" alt="spm-1" src="https://github.com/user-attachments/assets/56307ab7-da15-4ab5-9253-d688182d2e39" />
+<img width="748" height="561" alt="image" src="https://github.com/user-attachments/assets/08ff5a0f-5cb7-4d94-a88e-993f1d538702" />
 
-<img width="300" height="224" alt="smp-2" src="https://github.com/user-attachments/assets/9084af95-6f62-4cd9-a447-e69e2f457669" />
 
 ## RESULT
 
